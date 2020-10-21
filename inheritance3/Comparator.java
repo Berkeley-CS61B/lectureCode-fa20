@@ -1,3 +1,5 @@
+package inheritance3;
+
 /**
  * Created by jug on 2/7/18.
  */

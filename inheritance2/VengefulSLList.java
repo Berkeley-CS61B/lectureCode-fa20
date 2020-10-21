@@ -1,3 +1,5 @@
+package inheritance2;
+
 /** SList with additional operation printLostItems() which prints all items
   * that have ever been deleted. */
 public class VengefulSLList<Item> extends SLList<Item> {

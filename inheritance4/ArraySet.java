@@ -1,3 +1,5 @@
+package inheritance4;
+
 import java.util.Iterator;
 
 public class ArraySet<T> implements Iterable<T> {

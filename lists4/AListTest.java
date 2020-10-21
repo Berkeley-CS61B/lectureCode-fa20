@@ -1,3 +1,5 @@
+package lists4;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -68,9 +70,5 @@ public class AListTest {
         for (int i = 0; i < N; i += 1) {
             L.addLast(L.get(i));
         }
-    }
-
-    public static void main(String[] args) {
-        jh61b.junit.TestRunner.runTests("all", AListTest.class);
     }
 } 

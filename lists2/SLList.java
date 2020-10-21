@@ -1,4 +1,6 @@
- /** An SLList is a list of integers, which hides the terrible truth
+package lists2;
+
+/** An SLList is a list of integers, which hides the terrible truth
    * of the nakedness within. */
 public class SLList {	
 	private static class IntNode {
@@ -8,7 +10,7 @@ public class SLList {
 		public IntNode(int i, IntNode n) {
 			item = i;
 			next = n;
-			System.out.println(size);
+			// System.out.println(size);
 		}
 	} 
 
@@ -18,7 +20,7 @@ public class SLList {
 
 	private static void lectureQuestion() {
 		SLList L = new SLList();
-		IntNode n = IntNode(5, null);
+		IntNode n = new IntNode(5, null);
 	}
 
 	/** Creates an empty SLList. */

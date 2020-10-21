@@ -1,3 +1,5 @@
+package lists4.speedtest;
+
 public class SpeedTestSLList {
 	public static void main(String[] args) {
 		SLList<Integer> L = new SLList<>();

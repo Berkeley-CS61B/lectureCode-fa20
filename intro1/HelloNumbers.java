@@ -1,3 +1,5 @@
+package intro1;
+
 public class HelloNumbers {
 	public static void main(String[] args) {
 		int x = 0;
@@ -6,7 +8,7 @@ public class HelloNumbers {
 			x = x + 1;
 		}
 
-		x = "horse";
+		// x = "horse";
 	}
 }
 

@@ -1,3 +1,5 @@
+package inheritance2;
+
 /**
  * Created by hug on 2/6/2017.
  */

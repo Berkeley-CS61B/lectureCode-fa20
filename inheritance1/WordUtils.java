@@ -1,3 +1,5 @@
+package inheritance1;
+
 public class WordUtils {
    /** Returns the length of the longest word. */
    public static String longest(List61B<String> list) {

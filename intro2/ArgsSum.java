@@ -1,3 +1,5 @@
+package intro2;
+
 public class ArgsSum {
 	public static void main(String[] args) {
 		int N = args.length;

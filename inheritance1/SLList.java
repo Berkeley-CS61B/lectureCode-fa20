@@ -1,4 +1,6 @@
- /** An SLList is a list of integers, which hides the terrible truth
+package inheritance1;
+
+/** An SLList is a list of integers, which hides the terrible truth
    * of the nakedness within. */
 public class SLList<Blorp> implements List61B<Blorp>  {
 	private class Node {

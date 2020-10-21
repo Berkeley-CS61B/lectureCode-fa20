@@ -1,4 +1,6 @@
- /** An SLList is a list of integers, which hides the terrible truth
+package lists4.speedtest;
+
+/** An SLList is a list of integers, which hides the terrible truth
    * of the nakedness within. */
 public class SLList<Blah> {	
 	private class StuffNode {

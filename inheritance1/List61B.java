@@ -1,3 +1,5 @@
+package inheritance1;
+
 public interface List61B<Item> {
         public void insert(Item x, int position);
         public void addFirst(Item x);

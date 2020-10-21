@@ -1,3 +1,5 @@
+package inheritance3;
+
 public class Maximizer {
 	public static Comparable max(Comparable[] items) {
 		int maxDex = 0;

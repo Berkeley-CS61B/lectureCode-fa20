@@ -1,3 +1,5 @@
+package lists4.speedtest;
+
 /** Array based list.
  *  @author Josh Hug
  */

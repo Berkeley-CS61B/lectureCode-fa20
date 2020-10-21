@@ -1,3 +1,5 @@
+package intro2;
+
 public class Dog {
 	public int weightInPounds;
 	public static String binomen = "Canis familiaris";

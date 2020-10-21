@@ -1,3 +1,5 @@
+package inheritance1;
+
 /** Array based list.
  *  @author Josh Hug
  */

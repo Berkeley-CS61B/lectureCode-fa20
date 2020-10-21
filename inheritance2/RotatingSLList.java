@@ -1,3 +1,5 @@
+package inheritance2;
+
 /* SLList, but with additional rotateRight operation. */
 public class RotatingSLList<Item> extends SLList<Item> {
 

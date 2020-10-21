@@ -1,3 +1,5 @@
+package inheritance3;
+
 public class Dog implements Comparable<Dog> {
     public String name;
     private int size;
